@@ -1,0 +1,3 @@
+Error opening configuration file '/etc/speech-dispatcher/modules/dummy.conf'
+shared memfd open() failed: Function not implemented
+pulse.c: pa_simple_new() failed: Connection refused
