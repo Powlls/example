@@ -1,3 +1,0 @@
-/etc/speech-dispatcher/modules/mary-generic.conf:33: Missing argument to option 'GenericPunctNone'
-shared memfd open() failed: Function not implemented
-pulse.c: pa_simple_new() failed: Connection refused

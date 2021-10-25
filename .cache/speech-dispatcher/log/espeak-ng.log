@@ -1,3 +1,0 @@
-shared memfd open() failed: Function not implemented
-shared memfd open() failed: Function not implemented
-pulse.c: pa_simple_new() failed: Connection refused
